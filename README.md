@@ -1,0 +1,1 @@
+# global-tech-startups-analysis
